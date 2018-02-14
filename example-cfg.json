@@ -7,7 +7,7 @@
 	"pass" : "p",
 
 	"algo" : "cryptonight",
-	"threads" : "2",
+	"threads" : "7",
 
 	"quiet" : true
 }
